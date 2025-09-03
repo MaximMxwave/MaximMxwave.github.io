@@ -18,6 +18,9 @@
 
 ![preview img](/preview.png)
 
+## Ссылка на сайт:
+https://MaximMxwave.github.io
+
 **👤 Автор:**
 
 Максим Олесов ([@Mxwave](https://t.me/Mxwave))
