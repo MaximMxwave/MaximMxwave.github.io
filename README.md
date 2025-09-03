@@ -19,7 +19,7 @@
 ![preview img](/preview.png)
 
 ## Ссылка на сайт:
-https://MaximMxwave.github.io
+https://MaximMxwave.github.io/
 
 **👤 Автор:**
 
